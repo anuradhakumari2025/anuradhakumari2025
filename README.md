@@ -5,7 +5,9 @@
 🌱 Currently learning **React.js & Node.js**  
 💡 Passionate about **Web Development & Problem-Solving**  
 📌 Exploring **MERN Stack & Full-Stack Development**  
-📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/anuradha-kumari-328234259/)**  
+📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/anuradhakumari2025/)**  
+📫 Connect with me on **[X](https://x.com/AnuradhaKu49430)**  
+
 
 ---
 
@@ -37,7 +39,9 @@
 ---
 
 ## 📬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anuradha-kumari-328234259/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anuradhakumari2025/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter)](https://x.com/AnuradhaKu49430)
+
 
 ---
 
