@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | React.js & Node.js Enthusiast**  
 
-🌱 Currently learning **React.js & Node.js**  
+🌱 Currently learning **Next.js**  
 💡 Passionate about **Web Development & Problem-Solving**  
 📌 Exploring **MERN Stack & Full-Stack Development**  
 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/anuradhakumari2025/)**  
